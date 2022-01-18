@@ -2,14 +2,6 @@
 Overview
 ########
 
-**WARNING: As previously announced on our communication channels, the Kytos
-project will enter the "shutdown" phase on May 31, 2021. After this date,
-only critical patches (security and core bug fixes) will be accepted, and the
-project will be in "critical-only" mode for another six months (until November
-30, 2021). For more information visit the FAQ at <https://kytos.io/faq>. We'll
-have eternal gratitude to the entire community of developers and users that made
-the project so far.**
-
 |License| |Build| |Coverage| |Quality|
 
 .. attention::
@@ -47,14 +39,14 @@ You can find a list of the available endpoints and example input/output in the
 
 .. TAGs
 
-.. |License| image:: https://img.shields.io/github/license/kytos/kytos.svg
-   :target: https://github.com/kytos/status/blob/master/LICENSE
-.. |Build| image:: https://scrutinizer-ci.com/g/kytos/status/badges/build.png?b=master
+.. |License| image:: https://img.shields.io/github/license/kytos-ng/kytos.svg
+   :target: https://github.com/kytos-ng/status/blob/master/LICENSE
+.. |Build| image:: https://scrutinizer-ci.com/g/kytos-ng/status/badges/build.png?b=master
   :alt: Build status
-  :target: https://scrutinizer-ci.com/g/kytos/status/?branch=master
-.. |Coverage| image:: https://scrutinizer-ci.com/g/kytos/status/badges/coverage.png?b=master
+  :target: https://scrutinizer-ci.com/g/kytos-ng/status/?branch=master
+.. |Coverage| image:: https://scrutinizer-ci.com/g/kytos-ng/status/badges/coverage.png?b=master
   :alt: Code coverage
-  :target: https://scrutinizer-ci.com/g/kytos/status/?branch=master
-.. |Quality| image:: https://scrutinizer-ci.com/g/kytos/status/badges/quality-score.png?b=master
+  :target: https://scrutinizer-ci.com/g/kytos-ng/status/?branch=master
+.. |Quality| image:: https://scrutinizer-ci.com/g/kytos-ng/status/badges/quality-score.png?b=master
   :alt: Code-quality score
-  :target: https://scrutinizer-ci.com/g/kytos/status/?branch=master
+  :target: https://scrutinizer-ci.com/g/kytos-ng/status/?branch=master
