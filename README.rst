@@ -18,12 +18,13 @@ It is a really simple NApp.
 Installing
 ##########
 
-All of the Kytos Network Applications are located in the NApps online
-repository. To install this NApp, run:
+To install this NApp, first, make sure to have the same venv activated as you have ``kytos`` installed on:
 
 .. code:: shell
 
-   $ kytos napps install kytos/status
+   $ git clone https://github.com/kytos-ng/status.git
+   $ cd status
+   $ python3 setup.py develop
 
 ########
 Rest API
